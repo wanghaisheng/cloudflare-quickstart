@@ -1,3 +1,6 @@
+deploy
+
+
 # Cloudflare Quickstart
 
 This project is a quickstart for using Cloudflare Workers with Hono and Next.js.
